@@ -1,5 +1,5 @@
 # ConteroDaniel_dbd_CA
-Project created as first experience with SQL and Microsoft SQL Server on Dublin Business School. The Entity–relationship model can be found [here](#erm-(entity-relationship-model)) and the full project report [here](/conteroDaniel_technicalDocumentation_CA.pdf)
+Project created as first experience with SQL and Microsoft SQL Server on Dublin Business School. The Entity–relationship model can be found [here](#erm-entity-relationship-model) and the full project report [here](/conteroDaniel_technicalDocumentation_CA.pdf)
 
 ## Requirements
 > ### Assessment Overview
